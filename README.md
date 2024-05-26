@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pedroag002
+- 👋 Hi, I’m Pedro Aguiar
 - 👀 I’m interested in Back-End
 - 🌱 I’m currently learning C Language
 - 💞️ I’m looking to collaborate as a junior developer (starting) 
